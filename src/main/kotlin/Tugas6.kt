@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val siswa1 = classified()
     siswa1.nilai = 0.9
     print("Nilai siswa 1 = ")

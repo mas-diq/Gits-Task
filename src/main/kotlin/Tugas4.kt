@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     //kumpulan angka dalam array
     val arr = arrayListOf(
         12, 32, 23, 42, 34, 63, 39, 36, 85, 73, 90,

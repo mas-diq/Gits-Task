@@ -1,6 +1,6 @@
 import java.util.*
 
-fun main(args: Array<String>) {
+fun main() {
     val s = Scanner(System.`in`)
     print("Input some numbers that separate with 1 space except 67 = ")
     val num = s.nextLine()

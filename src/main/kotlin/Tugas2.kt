@@ -2,7 +2,7 @@ import java.util.*
 
 //simple sorting and classified to even or odd numbers
 
-fun main(args: Array<String>) {
+fun main() {
     val s = Scanner(System.`in`)
     print("Input your numbers = ")
     val n: String = s.nextLine()
