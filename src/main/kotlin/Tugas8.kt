@@ -39,5 +39,3 @@ class Bird(val name: String, private val legs: Int, private val skin: String, va
         println("$name has $legs legs, and has $skin skin")
     }
 }
-
-
